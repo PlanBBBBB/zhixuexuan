@@ -11,11 +11,6 @@ import java.time.format.DateTimeFormatter;
 
 /**
  * LocalDateTime 配置类
- *
- * @author Wuxy
- * @version 1.0
- * @ClassName LocalDateTimeConfig
- * @since 2023/1/19 9:36
  */
 @Configuration
 public class LocalDateTimeConfig {

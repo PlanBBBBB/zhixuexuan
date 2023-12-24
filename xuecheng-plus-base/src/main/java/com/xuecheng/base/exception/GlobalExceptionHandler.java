@@ -11,11 +11,6 @@ import java.util.List;
 
 /**
  * 全局异常处理器
- *
- * @author Wuxy
- * @version 1.0
- * @ClassName GlobalExceptionHandler
- * @since 2023/1/19 19:11
  */
 @Slf4j
 @RestControllerAdvice

@@ -1,12 +1,7 @@
 package com.xuecheng.base.exception;
 
 /**
- * 学成在线项目异常类
- *
- * @author Wuxy
- * @version 1.0
- * @ClassName XueChengPlusException
- * @since 2023/1/19 19:03
+ * 智学轩在线教学项目异常类
  */
 public class XueChengPlusException extends RuntimeException {
     private static final long serialVersionUID = 5565760508056698922L;

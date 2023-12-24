@@ -9,11 +9,6 @@ import lombok.ToString;
 
 /**
  * 分页参数类
- *
- * @author Wuxy
- * @version 1.0
- * @ClassName PageParams
- * @since 2023/1/18 18:47
  */
 @Data
 @ToString

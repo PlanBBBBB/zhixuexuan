@@ -10,11 +10,6 @@ import java.util.List;
 
 /**
  * 分页查询结果模型类
- *
- * @author Wuxy
- * @version 1.0
- * @ClassName PageResult
- * @since 2023/1/18 19:01
  */
 @Data
 @ToString
